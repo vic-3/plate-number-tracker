@@ -1,0 +1,5 @@
+path: Content/gdrive/My Drive/alban/output
+train: /content/gdrive/My Drive/alban/output/train/images
+val: /content/gdrive/My Drive/alban/output/val/images
+names:
+  0: license plate
